@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@d3/candlestick-chart": "https://api.observablehq.com/@d3/candlestick-chart.tgz?v=3",
+    "@modster/candlestick-chart": "https://api.observablehq.com/@modster/candlestick-chart.tgz?v=3",
+    "@observablehq/runtime": "^4.18.3",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
